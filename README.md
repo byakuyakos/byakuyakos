@@ -5,7 +5,7 @@
 ![](https://data.jsdelivr.com/v1/package/gh/byakuyakos/byakuyakos/badge)
 
 ### Hi there 👋
-- 💬 Ask me about [https://blog.acgrule.tk](https://blog.acgrule.tk)
+- 💬 Ask me about [https://blog.byakuyako.tk/](https://blog.byakuyako.tk/)
 - 📫 How to reach me: **byakuyakos@qq.com**
 - [🤔国内克隆下载缓慢或页面媒体资源无法显示の解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
 
